@@ -1,16 +1,3 @@
-# zalo_pay
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# ZALO_PAY FLUTTER
+## Hỗ trợ anh em trong việc tích hợp ZALO mong anh em cho mình 1 sao nhé 
+Nguồn https://pub.dev/packages/flutter_zalopay_sdk
